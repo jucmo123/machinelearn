@@ -36,7 +36,10 @@ gabarito = y_test # será o nosso gabarito
 
 print(f'Precisão: {str(metrics.precision_score(gabarito, resp_pc))}')
 
-
+# git status -> verifica situação
+# git add . ->
+# git commit -m "Mensagem"
+# git push origin main
 
 
 
